@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Loylogics Suite"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="4"
+           time="0.001">
+  <properties />
+  
+            <testcase name="setUp" time="0.0" classname="com.loylogics.testscript.HomePageTests">
+          <skipped />
+    </testcase>
+            <testcase name="initiData" time="0.0" classname="com.loylogics.testscript.HomePageTests">
+          <skipped />
+    </testcase>
+            <testcase name="afterMainMethod" time="0.0" classname="com.loylogics.testscript.HomePageTests">
+          <skipped />
+    </testcase>
+            <testcase name="AddingItemInCart" time="0.0" classname="com.loylogics.testscript.HomePageTests">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
